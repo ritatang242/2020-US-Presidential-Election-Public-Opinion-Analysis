@@ -1,5 +1,5 @@
-# 2020-_-
-此為【社群媒體分析】課程專案
+# 2020 US Presidential Election Public Opinion Analysis
+此為【社群媒體分析】課程文字分析專案
 
 2020/04/28 期中報告
 
