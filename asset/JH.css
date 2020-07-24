@@ -1,0 +1,41 @@
+h1.title {
+  background-color:transparent;
+}
+
+h1{
+  font-family: "Trebuchet MS", "微軟正黑體", "Microsoft JhengHei";
+  background-color: #FAD689;
+  padding: 5px;
+  font-weight: bold;
+}
+
+code{
+  font-family: "Consolas", "Trebuchet MS", "微軟正黑體", "Microsoft JhengHei";
+}
+
+h6{
+  color: #c08080;
+  font-family: "Consolas", "Trebuchet MS", "微軟正黑體", "Microsoft JhengHei";
+  font-size: "16px";
+  font-weight: bold;
+}
+
+p,li,title,body,h2,h3,h4,h5{
+  font-family: "Trebuchet MS", "微軟正黑體", "Microsoft JhengHei";
+}
+
+.qiz {
+  line-height: 1.75;
+  background: #f0f0f0;
+  border-left: 12px solid #cce6ff;
+  padding: 4px;
+  padding-left: 10px;
+}
+
+.wwl {
+  line-height: 1.75;
+  background: #f0f0f0;
+  border-left: 12px solid #ffeb99;
+  padding: 4px;
+  padding-left: 10px;
+}
